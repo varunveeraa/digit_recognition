@@ -1,4 +1,4 @@
-## digit_recognition
+### digit_recognition
 
 Digit Recognition after training 'mnist' dataset using tensorflow
 
